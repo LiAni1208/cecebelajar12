@@ -1,4 +1,3 @@
-# cecebelajar12
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -41,7 +40,7 @@
 </style>
 </head>
 <body>
-    <h1>Cece Belajar Linktree</h1>
+    <h1>Cece Belajar</h1>
     <div class="link">
         <div class="icon"><i class="fab fa-whatsapp"></i></div>
         <a href="https://wa.me/明天再写 先注册" target="_blank">WhatsApp</a>
